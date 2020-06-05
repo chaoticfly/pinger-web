@@ -9,7 +9,7 @@ Functionality includes:
 This also demonstrates the use of websocketd as a WebSockets server for scripts. It uses a few open source libraires for charting listed below. While all the functionality is through shell scripts.
 
 ### Run the project
-To run the project, download websocketd and place it in the same location. IF you have already, then run the following:
+To run the project, download [websocketd](http://websocketd.com/) and place it in the same location. IF you have already, then run the following:
 ```shell
 ./websocketd --port=9000 --staticdir=web --dir=src
 ```
