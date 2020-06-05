@@ -27,4 +27,6 @@ Most of the library calls are through CDN to reduce the number of files used.
 2. [Streaming Plugin](https://nagix.github.io/chartjs-plugin-streaming)
 3. [Milligram](https://milligram.io/)
 
+[screenshot of pinger](https://user-images.githubusercontent.com/62998686/83899546-43946680-a776-11ea-8beb-9372427f2ebf.png)
+
 __Plain old JavaScript!__
