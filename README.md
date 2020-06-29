@@ -3,7 +3,7 @@ The purpose of the project is to have a simple web page graph to test the networ
 
 Functionality includes:
 1. Streaming graph of ping requests
-2. Pactket loss monitoring.
+2. Packet loss monitoring.
 3. Information of the available Wifi Networks.
 
 This also demonstrates the use of websocketd as a WebSockets server for scripts. It uses a few open source libraires for charting listed below. While all the functionality is through shell scripts.
